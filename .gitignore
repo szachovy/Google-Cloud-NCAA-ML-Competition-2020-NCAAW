@@ -125,5 +125,9 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+
+# drawio relations table
+*.drawio
+
 # Pyre type checker
 .pyre/

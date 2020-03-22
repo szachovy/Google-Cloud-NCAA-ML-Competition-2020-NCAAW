@@ -252,6 +252,4 @@ def create_ncaa_full_court(ax=None, three_line='mens', court_color='#dfbb85',
     return ax
 
 
-fig, ax = plt.subplots(figsize=(15, 8.5))
-create_ncaa_full_court(ax, three_line='both', paint_alpha=0.4)
-plt.show()
+
